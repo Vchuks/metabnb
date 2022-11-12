@@ -15,7 +15,7 @@ const Navbar = () => {
         </div>
         <div className="navigation w-3/5 flex justify-between items-center gap-3">
           <div className="navbar w-3/5 flex justify-between">
-            <NavLink to="/">Home</NavLink>
+            <NavLink to="/metabnb">Home</NavLink>
             <NavLink to="/place">Place to stay</NavLink>
             <NavLink to="#">NFTs</NavLink>
             <NavLink to="#">Community</NavLink>
