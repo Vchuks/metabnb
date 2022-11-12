@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/metabnb/static/css/main.8cae9e99.css",
+    "main.js": "/metabnb/static/js/main.52c2ac96.js",
+    "static/js/787.91a51e9c.chunk.js": "/metabnb/static/js/787.91a51e9c.chunk.js",
+    "static/media/Frame 59546.png": "/metabnb/static/media/Frame 59546.a8af7e0fa95161e46002.png",
+    "static/media/Group 4028.png": "/metabnb/static/media/Group 4028.9bafa18b654dfbd5d908.png",
+    "static/media/Frame 151 (11).png": "/metabnb/static/media/Frame 151 (11).67b9635268474386ccd7.png",
+    "static/media/Frame 151 (5).png": "/metabnb/static/media/Frame 151 (5).67b9635268474386ccd7.png",
+    "static/media/Frame 151 (2).png": "/metabnb/static/media/Frame 151 (2).707d3a70e29437e2b16d.png",
+    "static/media/Frame 151 (7).png": "/metabnb/static/media/Frame 151 (7).1d2adc92edf4702fba51.png",
+    "static/media/Frame 151 (3).png": "/metabnb/static/media/Frame 151 (3).43d4cf4eb2d63ef5b60f.png",
+    "static/media/Frame 151 (1).png": "/metabnb/static/media/Frame 151 (1).2a924bfc6a0d88cb9672.png",
+    "static/media/Frame 151 (12).png": "/metabnb/static/media/Frame 151 (12).6f7061fafe7153fd63e4.png",
+    "static/media/Frame 151 (4).png": "/metabnb/static/media/Frame 151 (4).6f7061fafe7153fd63e4.png",
+    "static/media/Frame 151 (6).png": "/metabnb/static/media/Frame 151 (6).8f8b11a4e2d7d5d2e43e.png",
+    "static/media/Frame 151.png": "/metabnb/static/media/Frame 151.1a903634dcefb8e49efb.png",
+    "index.html": "/metabnb/index.html",
+    "main.8cae9e99.css.map": "/metabnb/static/css/main.8cae9e99.css.map",
+    "main.52c2ac96.js.map": "/metabnb/static/js/main.52c2ac96.js.map",
+    "787.91a51e9c.chunk.js.map": "/metabnb/static/js/787.91a51e9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8cae9e99.css",
+    "static/js/main.52c2ac96.js"
+  ]
+}
