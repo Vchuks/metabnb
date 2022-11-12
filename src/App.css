@@ -1,38 +1,37 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css2?family=Red+Rose&display=swap');
+*{
+  font-family: 'Red Rose', cursive;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.navbar{
+  color:#434343;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.nav-btn{
+  background: linear-gradient(90deg, #A02279 11.45%, #A02279 11.45%);
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.span{
+  color: #A02279;
+  -webkit-text-stroke: 1px #A02279;
 }
-
-.App-link {
-  color: #61dafb;
+.bold{
+  -webkit-text-stroke: 1px #000;
+  font-weight: 500;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.bd{
+  -webkit-text-stroke: 1px #434343;
+}
+.modal{
+  background: rgba(64, 64, 64, 0.3);
+}
+.bord{
+  border-color: #CFD8DC;
+  /* background-color: #CFD8DC; */
+}
+.meta{
+  -webkit-text-stroke: 0.5px #000000;
+}
+.footer{
+  background-color: #1D1D1E;
+}
+.foot-link{
+  color: #F1F3F9;
 }
