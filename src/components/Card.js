@@ -7,7 +7,7 @@ const Card = () => {
     console.log(list);
     return <Cardbody key={list.id} list={list} />;
   });
-  return <div className="flex flex-wrap">{display}</div>;
+  return <div className="flex flex-wrap justify-center">{display}</div>;
 };
 
 export default Card;

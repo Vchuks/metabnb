@@ -18,9 +18,9 @@ const Home = () => {
     <>
       <Navbar />
       <div className=" bg-white">
-        <header className="px-20 py-8 flex navbar items-center gap-10">
+        <header className="px-8 py-6 lg:px-20 lg:py-8 lg:flex navbar items-center gap-10">
           <div className="w-full">
-            <p className="text-5xl leading-11">
+            <p className="text-3xl md:text-4xl lg:text-5xl lg:leading-11">
               Rent a <span className="span ">Place</span> away from{" "}
               <span className="span ">Home</span> in the{" "}
               <span className="span ">Metaverse</span>
@@ -42,12 +42,12 @@ const Home = () => {
               />
             </div>
           </div>
-          <div className="w-full">
+          <div className="w-full mt-8 lg:mt-0">
             <Image src={firstImage} alt="picture frame" className="m-auto" />
           </div>
         </header>
         <main>
-          <section className="nav-btn px-14 py-2 flex justify-between items-center my-10">
+          <section className="nav-btn px-8 md:px-14 py-2 flex justify-between items-center my-10">
             <div>
               <Image src={brand1} />
             </div>
@@ -59,24 +59,24 @@ const Home = () => {
             </div>
           </section>
 
-          <section className="px-20 py-8">
+          <section className="px-8 py-6 lg:px-20 lg:py-8">
             <Content
               children="Inspiration for your next adventure"
-              className="text-center text-5xl bold"
+              className="text-center text-3xl md:text-4xl lg:text-5xl bold"
             />
             <Card />
           </section>
 
-          <section className="nav-btn text-white px-20 py-8 md:flex items-center">
+          <section className="nav-btn text-white px-8 py-6 lg:px-20 lg:py-8 lg:flex items-center">
             <div className="w-full">
               <Content children="Metabnb NFTs" className="text-4xl my-6" />
               <Content
                 children="Discover our NFT gift cards collection. Loyal customers gets amazing gift cards which are traded as NFTs. These NFTs gives our cutomer access to loads of our exclusive services."
-                className="w-8/12 leading-8 my-6"
+                className="lg:w-8/12 leading-8 my-6"
               />
               <Button
                 children="Learn More"
-                className="w-1/4 span text-center bg-white rounded-lg px-5 py-2"
+                className="w-2/3 md:w-1/3 span text-center bg-white rounded-lg px-5 py-2"
               />
             </div>
             <div className="w-full my-6">

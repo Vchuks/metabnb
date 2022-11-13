@@ -5,7 +5,7 @@ import im from "../../images/setting-5.png";
 
 const Subnav = () => {
   return (
-    <div className="w-full px-20 pt-8 text-lg justify-between items-center flex">
+    <div className="w-full px-8 lg:px-20 pt-8 text-lg justify-between items-center flex flex-wrap">
       <Button href="#" children="Restaurant" />
       <Button href="#" children="Cottage" />
       <Button href="#" children="Castle" />

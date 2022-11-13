@@ -8,8 +8,8 @@ import wallt2 from "../images/image 69.png";
 const Modal = ({ closeModal }) => {
   return (
     <>
-      <div className="w-screen h-screen modal fixed flex">
-        <div className="w-2/5 border-2 rounded-lg bg-white m-auto">
+      <div className="w-screen h-screen modal fixed flex z-10 top-0 left-0">
+        <div className="lg:w-2/5 border-2 rounded-lg bg-white m-auto">
           <header className="w-full flex justify-between p-4">
             <Content children="Connect Wallet" className="text-lg meta" />
             <Button

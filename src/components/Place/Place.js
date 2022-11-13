@@ -14,7 +14,10 @@ const Place = () => {
     <>
       <Navbar />
       <Subnav />
-      <div className="px-20 py-8 flex flex-wrap">{display}</div>;
+      <div className="px-8 py-6 lg:px-20 lg:py-8 flex flex-wrap justify-center">
+        {display}
+      </div>
+      ;
       <Footer />
     </>
   );
